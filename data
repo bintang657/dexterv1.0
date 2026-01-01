@@ -1,0 +1,10 @@
+[{
+    "device": "device123",
+    "key": "key12345-12-2025",
+    "allowOffline": true
+},
+{
+    "device": "device456",
+    "key": "key67890-15-06-2025",
+    "allowOffline": false
+}]
